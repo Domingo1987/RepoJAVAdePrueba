@@ -1,5 +1,13 @@
+/**
+ * @file Empleado.java
+ * @brief Clase empleado
+ */
+
 package Proyecto1;
 
+ /**
+  * @class Clase empleado
+  */
 public class Empleado {
     private String nombre;
     private int id;
@@ -11,6 +19,11 @@ public class Empleado {
         this.salario = salario;
     }
 
+    /**
+     * @brief descripcion que hace
+     * @param cada parametro
+     * @return lo que sale
+     */
     public String getNombre() {
         return this.nombre;
     }

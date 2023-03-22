@@ -1,11 +1,11 @@
-package Proyecto1;
-
 /**
  * @file MiPrimerEjemplo.java
  * @brief Ejemplo de creación e impresión de un objeto de tipo Empleado.
  * @author Domingo Pérez
  * @date 22/03/2023
  */
+
+package Proyecto1;
 
  public class MiPrimerEjemplo {
     public static void main(String[] args) {
